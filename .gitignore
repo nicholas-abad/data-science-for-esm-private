@@ -1,0 +1,8 @@
+.ipynb-checkpoints
+data-science-for-esm/data
+*.geojson
+*.nc
+*.tif
+data-science-for-esm/tmp/
+data-science-for-esm/_build/
+data-science-for-esm/tmp.csv
